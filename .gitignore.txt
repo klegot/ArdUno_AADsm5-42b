@@ -1,0 +1,25 @@
+# Altium Designer temporary files
+*.PrjPcbStructure
+*.PrjPcbStructure.htm
+__History/
+__LocalHistory/
+Project Logs/
+Project Outputs for */
+History/
+Outputs/
+*.xml
+*.xml.bak
+*.Xml
+*.XML
+*.SchDocPreview
+*.PcbDocPreview
+*.~
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Compiled files
+*.rar
+*.zip
+*.7z
