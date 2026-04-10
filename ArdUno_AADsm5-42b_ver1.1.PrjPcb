@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ArdUno_AADsm5-42b_ver1.1\Design Rule Check - ArdUno_AADsm5-42b_pcb.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Title1str
 Value=Arduino Uno
