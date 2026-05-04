@@ -227,6 +227,22 @@ DItemRevisionGUID=
 Name=Title1str
 Value=Arduino Uno
 
+[Parameter2]
+Name=SheetTotal
+Value=1
+
+[Parameter3]
+Name=SheetNumber
+Value=1
+
+[Parameter4]
+Name=DevelopedBy
+Value=Абрамов А.Д.
+
+[Parameter5]
+Name=CheckedBy
+Value=Воробьев А.К.
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -239,7 +255,7 @@ ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=0
@@ -254,7 +270,7 @@ ExportBOM=0
 TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
-SCH_PrintColor=0
+SCH_PrintColor=2
 PrintQuality=-3
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
@@ -605,13 +621,13 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=1|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=RUB|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
-Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration1_Name5=VisibleOrder
+Configuration1_Item5=Designator=100|ValueType=100|ValueDescription=100|ValueManufacturerPartNumber=159|ValueManufacturer=100|Quantity=120
+Configuration1_Name6=VisibleOrder_Flat
+Configuration1_Item6=Designator=100|ValueType=100|ValueDescription=100|ValueManufacturerPartNumber=159|ValueManufacturer=100|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
