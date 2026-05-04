@@ -134,6 +134,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Project Outputs for ArdUno_AADsm5-42b_ver1.1\ArdUno_AADsm5-42b_ver1.1_ПЭ3.xls
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ArdUno_AADsm5-42b_ver1.1\ArdUno_AADsm5-42b_pcb-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=

@@ -1,0 +1,178 @@
+Change Value of Parameter Case in Part C1 Old= New=0603
+Change Value of Parameter Dielectric in Part C1 Old= New=X7R
+Change Value of Parameter Tolerance in Part C1 Old= New=10%
+Change Value of Parameter ValueDescription in Part C1 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C2 Old= New=0603
+Change Value of Parameter Dielectric in Part C2 Old= New=NP0
+Change Value of Parameter Tolerance in Part C2 Old= New=5%
+Change Value of Parameter ValueDescription in Part C2 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C3 Old= New=0603
+Change Value of Parameter Dielectric in Part C3 Old= New=NP0
+Change Value of Parameter Tolerance in Part C3 Old= New=5%
+Change Value of Parameter ValueDescription in Part C3 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C4 Old= New=0603
+Change Value of Parameter Dielectric in Part C4 Old= New=X7R
+Change Value of Parameter Tolerance in Part C4 Old= New=10%
+Change Value of Parameter ValueDescription in Part C4 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C5 Old= New=0603
+Change Value of Parameter Dielectric in Part C5 Old= New=X7R
+Change Value of Parameter Tolerance in Part C5 Old= New=10%
+Change Value of Parameter ValueDescription in Part C5 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C6 Old= New=0603
+Change Value of Parameter ValueDescription in Part C6 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C7 Old= New=0603
+Change Value of Parameter Dielectric in Part C7 Old= New=X7R
+Change Value of Parameter Tolerance in Part C7 Old= New=10%
+Change Value of Parameter ValueDescription in Part C7 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C8 Old= New=0607
+Change Value of Parameter Tolerance in Part C8 Old= New=20%
+Change Value of Parameter ValueDescription in Part C8 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C9 Old= New=0603
+Change Value of Parameter Dielectric in Part C9 Old= New=X7R
+Change Value of Parameter Tolerance in Part C9 Old= New=10%
+Change Value of Parameter ValueDescription in Part C9 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C10 Old= New=0603
+Change Value of Parameter Dielectric in Part C10 Old= New=X7R
+Change Value of Parameter Tolerance in Part C10 Old= New=10%
+Change Value of Parameter ValueDescription in Part C10 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C11 Old= New=0607
+Change Value of Parameter Tolerance in Part C11 Old= New=20%
+Change Value of Parameter ValueDescription in Part C11 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C12 Old= New=0603
+Change Value of Parameter Dielectric in Part C12 Old= New=X7R
+Change Value of Parameter Tolerance in Part C12 Old= New=10%
+Change Value of Parameter ValueDescription in Part C12 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C13 Old= New=0603
+Change Value of Parameter Dielectric in Part C13 Old= New=X7R
+Change Value of Parameter Tolerance in Part C13 Old= New=10%
+Change Value of Parameter ValueDescription in Part C13 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C14 Old= New=0603
+Change Value of Parameter Dielectric in Part C14 Old= New=X7R
+Change Value of Parameter Tolerance in Part C14 Old= New=10%
+Change Value of Parameter ValueDescription in Part C14 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C15 Old= New=0603
+Change Value of Parameter Dielectric in Part C15 Old= New=X7R
+Change Value of Parameter Tolerance in Part C15 Old= New=10%
+Change Value of Parameter ValueDescription in Part C15 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C16 Old= New=0603
+Change Value of Parameter ValueDescription in Part C16 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C17 Old= New=0603
+Change Value of Parameter Dielectric in Part C17 Old= New=X7R
+Change Value of Parameter Tolerance in Part C17 Old= New=10%
+Change Value of Parameter ValueDescription in Part C17 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part C18 Old= New=0603
+Change Value of Parameter Dielectric in Part C18 Old= New=X7R
+Change Value of Parameter Tolerance in Part C18 Old= New=10%
+Change Value of Parameter ValueDescription in Part C18 Old= New==Value+'Ô '+Voltage+' '+Dielectric+' '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter ValueDescription in Part R1 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R2 Old= New=0603
+Change Value of Parameter Tolerance in Part R2 Old= New=5%
+Change Value of Parameter ValueDescription in Part R2 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R3 Old= New=0603
+Change Value of Parameter Tolerance in Part R3 Old= New=1%
+Change Value of Parameter ValueDescription in Part R3 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R4 Old= New=0603
+Change Value of Parameter Tolerance in Part R4 Old= New=1%
+Change Value of Parameter ValueDescription in Part R4 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R5 Old= New=0603
+Change Value of Parameter ValueDescription in Part R5 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R6 Old= New=0603
+Change Value of Parameter ValueDescription in Part R6 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R7 Old= New=0603
+Change Value of Parameter Tolerance in Part R7 Old= New=1%
+Change Value of Parameter ValueDescription in Part R7 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R8 Old= New=0603
+Change Value of Parameter Tolerance in Part R8 Old= New=5%
+Change Value of Parameter ValueDescription in Part R8 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R9 Old= New=0603
+Change Value of Parameter Tolerance in Part R9 Old= New=5%
+Change Value of Parameter ValueDescription in Part R9 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter ValueDescription in Part R10 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R11 Old= New=0603
+Change Value of Parameter Tolerance in Part R11 Old= New=5%
+Change Value of Parameter ValueDescription in Part R11 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R12 Old= New=0603
+Change Value of Parameter Tolerance in Part R12 Old= New=1%
+Change Value of Parameter ValueDescription in Part R12 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R13 Old= New=0603
+Change Value of Parameter Tolerance in Part R13 Old= New=1%
+Change Value of Parameter ValueDescription in Part R13 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R14 Old= New=0603
+Change Value of Parameter Tolerance in Part R14 Old= New=5%
+Change Value of Parameter ValueDescription in Part R14 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R15 Old= New=0603
+Change Value of Parameter Tolerance in Part R15 Old= New=5%
+Change Value of Parameter ValueDescription in Part R15 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R16 Old= New=0603
+Change Value of Parameter Tolerance in Part R16 Old= New=5%
+Change Value of Parameter ValueDescription in Part R16 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R17 Old= New=0603
+Change Value of Parameter Tolerance in Part R17 Old= New=5%
+Change Value of Parameter ValueDescription in Part R17 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Case in Part R18 Old= New=0603
+Change Value of Parameter Tolerance in Part R18 Old= New=1%
+Change Value of Parameter ValueDescription in Part R18 Old= New==Value+'Îì '+Tolerance+' '+Package+' SMD'
+Change Value of Parameter Package in Part C1 Old=Case New=Package
+Change Value of Parameter Package in Part C2 Old=Case New=Package
+Change Value of Parameter Package in Part C3 Old=Case New=Package
+Change Value of Parameter Package in Part C4 Old=Case New=Package
+Change Value of Parameter Package in Part C5 Old=Case New=Package
+Change Value of Parameter Package in Part C6 Old=Case New=Package
+Change Value of Parameter Package in Part C7 Old=Case New=Package
+Change Value of Parameter Package in Part C8 Old=Case New=Package
+Change Value of Parameter Package in Part C9 Old=Case New=Package
+Change Value of Parameter Package in Part C10 Old=Case New=Package
+Change Value of Parameter Package in Part C11 Old=Case New=Package
+Change Value of Parameter Package in Part C12 Old=Case New=Package
+Change Value of Parameter Package in Part C13 Old=Case New=Package
+Change Value of Parameter Package in Part C14 Old=Case New=Package
+Change Value of Parameter Package in Part C15 Old=Case New=Package
+Change Value of Parameter Package in Part C16 Old=Case New=Package
+Change Value of Parameter Package in Part C17 Old=Case New=Package
+Change Value of Parameter Package in Part C18 Old=Case New=Package
+Change Value of Parameter Package in Part DD1 Old=Case New=Package
+Change Value of Parameter Package in Part DD2 Old=Case New=Package
+Change Value of Parameter Package in Part DD3 Old=Case New=Package
+Change Value of Parameter Package in Part DD4 Old=Case New=Package
+Change Value of Parameter Package in Part DD5 Old=Case New=Package
+Change Value of Parameter Package in Part F1 Old=Case New=Package
+Change Value of Parameter Package in Part HL1 Old=Case New=Package
+Change Value of Parameter Package in Part HL2 Old=Case New=Package
+Change Value of Parameter Package in Part HL3 Old=Case New=Package
+Change Value of Parameter Package in Part HL4 Old=Case New=Package
+Change Value of Parameter Package in Part ICSP1 Old=Case New=Package
+Change Value of Parameter Package in Part ICSP2 Old=Case New=Package
+Change Value of Parameter Package in Part L1 Old=Case New=Package
+Change Value of Parameter Package in Part R1 Old=Case New=Package
+Change Value of Parameter Package in Part R2 Old=Case New=Package
+Change Value of Parameter Package in Part R3 Old=Case New=Package
+Change Value of Parameter Package in Part R4 Old=Case New=Package
+Change Value of Parameter Package in Part R5 Old=Case New=Package
+Change Value of Parameter Package in Part R6 Old=Case New=Package
+Change Value of Parameter Package in Part R7 Old=Case New=Package
+Change Value of Parameter Package in Part R8 Old=Case New=Package
+Change Value of Parameter Package in Part R9 Old=Case New=Package
+Change Value of Parameter Package in Part R10 Old=Case New=Package
+Change Value of Parameter Package in Part R11 Old=Case New=Package
+Change Value of Parameter Package in Part R12 Old=Case New=Package
+Change Value of Parameter Package in Part R13 Old=Case New=Package
+Change Value of Parameter Package in Part R14 Old=Case New=Package
+Change Value of Parameter Package in Part R15 Old=Case New=Package
+Change Value of Parameter Package in Part R16 Old=Case New=Package
+Change Value of Parameter Package in Part R17 Old=Case New=Package
+Change Value of Parameter Package in Part R18 Old=Case New=Package
+Change Value of Parameter Package in Part RU1 Old=Case New=Package
+Change Value of Parameter Package in Part RU2 Old=Case New=Package
+Change Value of Parameter Package in Part SB1 Old=Case New=Package
+Change Value of Parameter Package in Part VD1 Old=Case New=Package
+Change Value of Parameter Package in Part VD2 Old=Case New=Package
+Change Value of Parameter Package in Part VD3 Old=Case New=Package
+Change Value of Parameter Package in Part VT1 Old=Case New=Package
+Change Value of Parameter Package in Part X1 Old=Case New=Package
+Change Value of Parameter Package in Part X2 Old=Case New=Package
+Change Value of Parameter Package in Part X3 Old=Case New=Package
+Change Value of Parameter Package in Part X4 Old=Case New=Package
+Change Value of Parameter Package in Part X5 Old=Case New=Package
+Change Value of Parameter Package in Part X6 Old=Case New=Package
+Change Value of Parameter Package in Part ZQ1 Old=Case New=Package
+Change Value of Parameter Package in Part ZQ2 Old=Case New=Package
